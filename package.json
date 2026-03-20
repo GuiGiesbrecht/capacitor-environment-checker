@@ -30,16 +30,16 @@
     "ios",
     "testflight"
   ],
-  "author": "guidg",
+  "author": "GuiGiesbrecht",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/guidg/capacitor-environment-checker.git"
+    "url": "git+https://github.com/GuiGiesbrecht/capacitor-environment-checker.git"
   },
   "bugs": {
-    "url": "https://github.com/guidg/capacitor-environment-checker/issues"
+    "url": "https://github.com/GuiGiesbrecht/capacitor-environment-checker/issues"
   },
-  "homepage": "https://github.com/guidg/capacitor-environment-checker#readme",
+  "homepage": "https://github.com/GuiGiesbrecht/capacitor-environment-checker#readme",
   "scripts": {
     "build": "tsc -p tsconfig.json",
     "clean": "rm -rf dist",
