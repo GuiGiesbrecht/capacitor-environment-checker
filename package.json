@@ -1,6 +1,6 @@
 {
   "name": "capacitor-environment-checker",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Capacitor plugin to detect whether an iOS app is running via TestFlight, with safe fallbacks for Android and Web.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
